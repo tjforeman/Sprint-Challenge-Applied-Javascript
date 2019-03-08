@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The Dom is the Document Object Model, It's everything in the interface which can be overwritten, or changed using other languages. 
+
 2. What is an event?
+
+An event is a piece of code that takes place when an action is called inside of it, for example someone clicking on something, could log something in the console.
 
 3. What is an event listener?
 
+An Event listner is a function that runs an something when the desired event takes place, for example if an event listener says the text will turn blue when you double click on it, if it's double clicked it will turn blue.If not it will stay the same color, it requires an action for the change. 
+
 4. Why would we convert a NodeList into an Array?
 
+We would convert a NodeList into an array to access it's prototyped methods. An array has more methods linked to it than a NodeList does. 
+
 5. What is a component?
+
+A component is a long piece of code, or muliple pieces of code that can be linked together, so that they can be reused to execute a desired result. for example you can set up a component for a diffent tabs on a single page and then add new tabs which will automatically be put into the tabs format as long as you set up the data- part of the html. 
 
 ### Git Set up
 
